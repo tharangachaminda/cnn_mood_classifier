@@ -1,6 +1,8 @@
 
 # Mood Recognition CNN
 
+![Logo](https://github.com/tharangachaminda/cnn_mood_classifier/blob/main/dataset-cover.jpg)
+
 A mood classification is a type of machine learning task that is used to recognize human moods or emotions based on input data, such as text, images, audio, or physiological signs. It's designed to automatically determine the emotional state or mood of an individual from the provided input.
 
 ### Business Impact
@@ -38,6 +40,3 @@ pip install tensorflow
 1. TensorFlow
 2. Keras
 3. Saving and reusing models
-
-
-![Logo](https://github.com/tharangachaminda/cnn_mood_classifier/blob/main/dataset-cover.jpg)

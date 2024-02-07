@@ -40,3 +40,6 @@ pip install tensorflow
 1. TensorFlow
 2. Keras
 3. Saving and reusing models
+
+## Demo
+[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/mood_detection)

@@ -42,4 +42,4 @@ pip install tensorflow
 3. Saving and reusing models
 
 ## Demo
-[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/mood_detection)
+[Try it on my profile](http://ec2-52-43-46-199.us-west-2.compute.amazonaws.com/mood_detection)
